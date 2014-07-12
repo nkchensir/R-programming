@@ -1,0 +1,27 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   2nd/.RData
+#	new file:   2nd/.Rhistory
+#	new file:   2nd/.Rproj.user/4AC1B0F9/build_options
+#	new file:   2nd/.Rproj.user/4AC1B0F9/pcs/files-pane.pper
+#	new file:   2nd/.Rproj.user/4AC1B0F9/pcs/source-pane.pper
+#	new file:   2nd/.Rproj.user/4AC1B0F9/pcs/windowlayoutstate.pper
+#	new file:   2nd/.Rproj.user/4AC1B0F9/pcs/workbench-pane.pper
+#	new file:   2nd/.Rproj.user/4AC1B0F9/sdb/per/t/190DFF7
+#	new file:   2nd/.Rproj.user/4AC1B0F9/sdb/prop/6E4CFFBA
+#	new file:   2nd/.Rproj.user/4AC1B0F9/sdb/prop/INDEX
+#	new file:   2nd/2nd.Rproj
+#	new file:   2nd/Rpro2nd
+#	new file:   2nd/hospital-data.csv
+#	new file:   2nd/outcome-of-care-measures.csv
+#	new file:   2nd/test.R
+#
+

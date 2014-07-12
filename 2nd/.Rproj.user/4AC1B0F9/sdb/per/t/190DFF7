@@ -1,0 +1,17 @@
+{
+    "contents" : "outcome <- read.csv(\"outcome-of-care-measures.csv\", colClasses = \"character\")\nhead(outcome)",
+    "created" : 1405135095735.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2641288313",
+    "id" : "190DFF7",
+    "lastKnownWriteTime" : 1405165112,
+    "path" : "D:/mooc/R programming/2nd/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
